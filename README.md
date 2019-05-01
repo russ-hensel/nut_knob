@@ -12,6 +12,8 @@ What:
 Status:
 	Printed, seem to work well, lets see in a year.
 	
+![](./Fillet004%20(Meshed).stl)
+
 Some documentation for the Model Tree:
 
 
