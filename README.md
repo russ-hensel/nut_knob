@@ -12,7 +12,7 @@ What:
 Status:
 	Printed, seem to work well, lets see in a year.
 	
-![](./Fillet004%20(Meshed).stl)
+![](example_stl.stl)
 
 Some documentation for the Model Tree:
 
