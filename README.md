@@ -12,7 +12,7 @@ What:
 Status:
 	Printed, seem to work well, lets see in a year.
 	
-![](example_stl.stl)
+<img src=knob_image.png width=500>
 
 Some documentation for the Model Tree:
 
