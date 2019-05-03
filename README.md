@@ -12,6 +12,18 @@ What:
 Status:
 	Printed, seem to work well, lets see in a year.
 	
+``` 
+  Working pretty well, in process of adding some additional mounting options.  
+  Have printed and used about 5 of these so far, pretty happy with them.
+
+	Standard Disclaimer:
+		If you have more than a casual interest in this project you should contact me 
+		( no_spam_please_666 at comcast.net )and see if the repository is actually in good shape.  
+		I may well have improved software and or documentation.  
+		I will try to answer all questions and perhaps even clean up what already exists.	
+``` 		
+Documentation:
+	
 <img src=knob_image.png width=500>
 
 Some documentation for the Model Tree:
